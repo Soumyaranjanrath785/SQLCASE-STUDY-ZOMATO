@@ -1,0 +1,38 @@
+Here is a summary of some of the key queries and their respective purposes:
+
+Total Amount Each Customer Spent on Zomato:
+
+Aggregates the total amount spent by each customer on Zomato.
+Days Each Customer Visited Zomato:
+
+Counts the number of distinct days each customer made a purchase on Zomato.
+First Product Purchased by Each Customer:
+
+Identifies the first product purchased by each customer along with the purchase date.
+Most Purchased Item in Menu and Frequency:
+
+Determines the most purchased item in the menu and the number of times it was purchased by all customers.
+Most Popular Item for Each Customer:
+
+Identifies the most popular item for each customer based on the number of purchases.
+Items Purchased After Becoming Members:
+
+Lists the items purchased by customers after they became gold members.
+Items Purchased Before Becoming Members:
+
+Lists the items purchased by customers before they became gold members.
+Total Amount Spent Before Becoming a Member:
+
+Calculates the total amount spent by each customer before becoming a gold member.
+Points Collected by Each Customer and Most Rewarding Product:
+
+Calculates points and rewards collected by each customer based on product purchases, and identifies the most rewarding product.
+Comparison of Points Earned in the First Year:
+
+Calculates points earned by customers in the first year after joining the gold program, applying specific rules.
+Ranking All Transactions of Customers:
+
+Assigns a rank to each transaction based on the order of creation within each customer's transactions.
+Ranking Transactions During Gold Membership:
+
+Assigns a rank to each transaction during gold membership, marking 'NA' for non-gold members.
